@@ -2,7 +2,6 @@
     "compileOnSave": false,
     "compilerOptions": {
         "baseUrl": "src",
-        // "outDir": "./dist",
         "noImplicitAny": false,
         "module": "commonjs",
         "target": "es5",

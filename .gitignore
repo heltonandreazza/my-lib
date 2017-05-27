@@ -5,6 +5,7 @@ npm-debug.log
 Thumbs.db
 .DS_Store
 # Ignored files
-*.js
-*.map
-*.d.ts
+# comentado abaixo pois será utilizado direto pelo git, se for pelo npm tem que descomentar https://medium.com/@OCombe/how-to-publish-a-library-for-angular-2-on-npm-5f48cdabf435
+#*.js
+#*.map
+#*.d.ts
